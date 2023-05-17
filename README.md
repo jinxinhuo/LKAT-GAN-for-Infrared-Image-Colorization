@@ -10,7 +10,7 @@
 # Network
 ![image](https://github.com/lifegoeso/t/blob/master/img/network.jpg)
 
-# # LK-Unet
+# LK-Unet
 ![image](https://github.com/lifegoeso/t/blob/master/img/LK-Unet.jpg)
 
 # Data Preparation
