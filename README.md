@@ -5,7 +5,6 @@
 - python 3.7
 - torch 1.13.1
 - torchvision 0.14.1
-- NVIDIA GPU + CUDA cuDNN
 
 # Network
 ![image](https://github.com/lifegoeso/t/blob/master/img/network.jpg)
