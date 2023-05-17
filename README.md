@@ -25,6 +25,13 @@ The resolution of all images in the input network is 256*256.
 ## IRVI dataset
 ![image](https://github.com/lifegoeso/t/blob/master/img/Experiments2.jpg)
 
+# Comparison methods
+[CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+[SCGAN](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN).
+[TICCGAN](https://github.com/Kuangxd/TICCGAN).
+[I2VGAN](https://github.com/BIT-DA/I2V-GAN).
+[PealGAN](https://github.com/FuyaLuo/PearlGAN).
+[MUGAN](https://github.com/HangyingLiao/MUGAN).
 # Acknowledgments
 This code borrows heavily from [TICCGAN](https://github.com/Kuangxd/TICCGAN).
 
