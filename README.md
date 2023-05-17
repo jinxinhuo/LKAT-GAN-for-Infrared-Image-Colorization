@@ -21,10 +21,10 @@ The resolution of all images in the input network is 256*256.
 # Colorization results
 ## KAIST-MS dataset
 ![image](https://github.com/lifegoeso/t/blob/master/img/Experiments.jpg)
-
+(a) Thermal infrared iamges. (b) CycleGAN. (c) Pix2pix. (d) SCGAN. (e) TICCGAN. (f) PealGAN. (g) MUGAN. (h) LKAT-GAN. (i)RGB images.
 ## IRVI dataset
 ![image](https://github.com/lifegoeso/t/blob/master/img/Experiments2.jpg)
-
+(a) Thermal infrared iamges. (b) I2VGAN. (c) TICCGAN. (d) SCGAN. (e) PealGAN. (f) MUGAN. (g) LKAT-GAN. (h) RGB images.
 # Comparison methods
 [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 [SCGAN](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN).
