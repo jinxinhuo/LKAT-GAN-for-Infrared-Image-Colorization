@@ -35,5 +35,3 @@ The resolution of all images in the input network is 256*256.
 
 # Acknowledgments
 This code borrows heavily from [TICCGAN](https://github.com/Kuangxd/TICCGAN).
-# Contact with me
-If you have any questions, please contact with me. (15228630121@163.com)
