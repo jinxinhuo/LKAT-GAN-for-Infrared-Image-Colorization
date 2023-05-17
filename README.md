@@ -32,8 +32,8 @@ The resolution of all images in the input network is 256*256.
 [I2VGAN](https://github.com/BIT-DA/I2V-GAN).
 [PealGAN](https://github.com/FuyaLuo/PearlGAN).
 [MUGAN](https://github.com/HangyingLiao/MUGAN).
+
 # Acknowledgments
 This code borrows heavily from [TICCGAN](https://github.com/Kuangxd/TICCGAN).
-
 # Contact with me
 If you have any questions, please contact with me. (15228630121@163.com)
